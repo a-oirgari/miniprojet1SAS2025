@@ -1,3 +1,4 @@
+//2EME TENTATIVE
 #include<stdio.h>
 
 float calculerMoyenne(float notes[], int n);
